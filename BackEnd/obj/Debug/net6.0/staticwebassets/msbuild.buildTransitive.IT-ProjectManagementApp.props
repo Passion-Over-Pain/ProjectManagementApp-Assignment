@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IT-ProjectManagementApp.props" />
+</Project>

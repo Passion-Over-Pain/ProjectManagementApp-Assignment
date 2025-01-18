@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|c:\\users\\juane\\desktop\\github projects\\iwdv202-webapp\\backend\\controllers\\projectmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|solutionrelative:controllers\\projectmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|c:\\users\\juane\\desktop\\github projects\\iwdv202-webapp\\backend\\it-projectmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|solutionrelative:it-projectmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s227284240\\Desktop\\IWDV202-WebApp - Copy\\IT-ProjectManagementApp\\Migrations\\20241021073333_Redone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|c:\\users\\juane\\desktop\\github projects\\iwdv202-webapp\\backend\\migrations\\20241021073835_restart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|solutionrelative:migrations\\20241021073835_restart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|c:\\users\\juane\\desktop\\github projects\\iwdv202-webapp\\backend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|c:\\users\\juane\\desktop\\github projects\\iwdv202-webapp\\backend\\controllers\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|solutionrelative:controllers\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|c:\\users\\juane\\desktop\\github projects\\iwdv202-webapp\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|c:\\users\\juane\\desktop\\github projects\\iwdv202-webapp\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|c:\\users\\juane\\desktop\\github projects\\iwdv202-webapp\\backend\\controllers\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|solutionrelative:controllers\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|c:\\users\\juane\\desktop\\github projects\\iwdv202-webapp\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|c:\\users\\juane\\desktop\\github projects\\iwdv202-webapp\\backend\\controllers\\models\\apptask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|solutionrelative:controllers\\models\\apptask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|c:\\users\\juane\\desktop\\github projects\\iwdv202-webapp\\backend\\controllers\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|solutionrelative:controllers\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|c:\\users\\juane\\desktop\\github projects\\iwdv202-webapp\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0CEDC62-1886-44C0-A891-2F928ED2DD9F}|IT-ProjectManagementApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Controllers\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Controllers\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Controllers\\Models\\Employee.cs",
+              "RelativeToolTip": "Controllers\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:59:43.66Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Controllers\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Controllers\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Controllers\\Models\\Project.cs",
+              "RelativeToolTip": "Controllers\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:00:26.558Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppTask.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Controllers\\Models\\AppTask.cs",
+              "RelativeDocumentMoniker": "Controllers\\Models\\AppTask.cs",
+              "ToolTip": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Controllers\\Models\\AppTask.cs",
+              "RelativeToolTip": "Controllers\\Models\\AppTask.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:00:40.772Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T12:01:47.179Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Controllers\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Controllers\\Models\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Controllers\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "Controllers\\Models\\AppDBContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:06:16.876Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Controllers\\ProjectManagerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectManagerController.cs",
+              "ToolTip": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Controllers\\ProjectManagerController.cs",
+              "RelativeToolTip": "Controllers\\ProjectManagerController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:47:07.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:00:17.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T08:58:44.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:22:43.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:43:55.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241021073835_Restart.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Migrations\\20241021073835_Restart.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241021073835_Restart.cs",
+              "ToolTip": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\Migrations\\20241021073835_Restart.cs",
+              "RelativeToolTip": "Migrations\\20241021073835_Restart.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:38:36.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241021073333_Redone.cs",
+              "DocumentMoniker": "C:\\Users\\s227284240\\Desktop\\IWDV202-WebApp - Copy\\IT-ProjectManagementApp\\Migrations\\20241021073333_Redone.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\s227284240\\Desktop\\IWDV202-WebApp - Copy\\IT-ProjectManagementApp\\Migrations\\20241021073333_Redone.cs",
+              "ToolTip": "C:\\Users\\s227284240\\Desktop\\IWDV202-WebApp - Copy\\IT-ProjectManagementApp\\Migrations\\20241021073333_Redone.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\s227284240\\Desktop\\IWDV202-WebApp - Copy\\IT-ProjectManagementApp\\Migrations\\20241021073333_Redone.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:33:33.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IT-ProjectManagementApp.csproj",
+              "DocumentMoniker": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\IT-ProjectManagementApp.csproj",
+              "RelativeDocumentMoniker": "IT-ProjectManagementApp.csproj",
+              "ToolTip": "C:\\Users\\juane\\Desktop\\GitHub Projects\\IWDV202-WebApp\\BackEnd\\IT-ProjectManagementApp.csproj",
+              "RelativeToolTip": "IT-ProjectManagementApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T06:45:35.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+// Controllers/ProjectManagerController.cs
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
+//using ProjectManagementAPI.Data;
+using System.Linq;
+using IT_ProjectManagementApp.Controllers.Models;
+
+[ApiController]
+[Route("api/projectmanager")]
+public class ProjectManagerController : ControllerBase
+{
+    private readonly AppDBContext _context;
+
+    public ProjectManagerController(AppDBContext context)
+    {
+        _context = context;
+    }
+
+    // Create a Project
+    [HttpPost("create-project")]
+    public async Task<IActionResult> CreateProject([FromBody] Project project)
+    {
+        if (ModelState.IsValid)
+        {
+            _context.Projects.Add(project);
+            await _context.SaveChangesAsync();
+            return Ok(new { message = "Project created successfully" });
+        }
+
+        return BadRequest(ModelState);
+    }
+
+    // Create and assign a task to an employee
+    [HttpPost("create-task")]
+    public async Task<IActionResult> CreateTask([FromBody] AppTask task)
+    {
+        if (ModelState.IsValid)
+        {
+            _context.Tasks.Add(task);
+            await _context.SaveChangesAsync();
+            return Ok(new { message = "Task created and assigned successfully" });
+        }
+
+        return BadRequest(ModelState);
+    }
+
+    // Get tasks by status
+    [HttpGet("tasks-by-status/{status}")]
+    public async Task<IActionResult> GetTasksByStatus(string status)
+    {
+        var tasks = await _context.Tasks
+            .Where(t => t.TaskStatus == status)
+            .Include(t => t.AssignedToEmployee)
+            .ToListAsync();
+
+        return Ok(tasks);
+    }
+
+    // Get tasks assigned to a specific employee
+    [HttpGet("tasks-by-employee/{employeeId}")]
+    public async Task<IActionResult> GetTasksByEmployee(int employeeId)
+    {
+        var tasks = await _context.Tasks
+            .Where(t => t.AssignedToEmployeeId == employeeId)
+            .ToListAsync();
+
+        return Ok(tasks);
+    }
+
+    // Get all projects
+    [HttpGet("projects")]
+    public async Task<IActionResult> GetProjects()
+    {
+        var projects = await _context.Projects.ToListAsync();
+        return Ok(projects);
+    }
+}

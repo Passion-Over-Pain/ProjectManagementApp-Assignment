@@ -1,0 +1,70 @@
+// src/components/Login.js
+import React, { useState } from 'react';
+import { Button, Form } from 'react-bootstrap';
+import { ToastContainer, toast } from 'react-toastify';
+import axios from 'axios';
+
+
+const Login = () => {
+    const [email, setEmail] = useState('');
+    const [password, setPassword] = useState('');
+    const [error, setError] = useState('');
+  
+    const handleSubmit = async (event) => {
+      event.preventDefault();
+  
+      try {
+        const response = await axios.post('http://localhost:5220/api/auth/login', {
+          email,
+          password,
+        });
+  
+        // Assuming you want to handle the response
+        alert(`Valid User. Welcome :)`);
+        // Perform actions with the response, e.g., store user info, redirect, etc.
+      } catch (error) {
+        // Check if the error response exists
+        if (error.response) {
+          // The request was made, and the server responded with a status code
+          // that falls out of the range of 2xx
+          console.error('Error response:', error.response.data);
+          setError(error.response.data.message || 'An error occurred');
+        } else if (error.request) {
+          // The request was made but no response was received
+          console.error('Error request:', error.request);
+          setError('No response from server');
+        } else {
+          // Something happened in setting up the request that triggered an Error
+          console.error('Error message:', error.message);
+          setError('Error: ' + error.message);
+        }
+      }
+    };
+  
+    return (
+      <form onSubmit={handleSubmit}>
+        <div>
+          <label>Email:</label>
+          <input
+            type="email"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            required
+          />
+        </div>
+        <div>
+          <label>Password:</label>
+          <input
+            type="password"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            required
+          />
+        </div>
+        <button type="submit">Login</button>
+        {error && <p>{error}</p>}
+      </form>
+    );
+  };
+  
+  export default Login;
