@@ -1,7 +1,16 @@
 # ProjectManagementApp
-## Project Explanation: IT Project Management Web Application
+
+![CSSMagic](https://github.com/user-attachments/assets/7e542d6c-37c8-410e-b0dd-b483c8be20e7)
+
 
 As part of this project, I developed an IT Project Management web application designed to streamline the process of assigning and tracking tasks for a project team. Here’s a detailed breakdown of the project structure based on the requirements:
+
+---
+
+>[!NOTE]
+> Listen to the AI generated podcast based on the project documentation [EXPERIMENTAL]---
+
+https://github.com/user-attachments/assets/9e099763-a700-4bcf-b172-2ad80f0de4c3
 
 ---
 
