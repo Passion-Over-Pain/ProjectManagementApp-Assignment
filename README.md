@@ -78,3 +78,12 @@ https://github.com/user-attachments/assets/9e099763-a700-4bcf-b172-2ad80f0de4c3
 
 ### Personal Learning Outcome
 This project allowed me to integrate multiple technologies into a cohesive system while ensuring security and usability, showcasing the ability to manage real-world project requirements effectively.
+
+---
+<p align="center" style="font-family: 'Times New Roman', serif;">
+  <a href="https://dev.to/passionoverpain">Dev.to</a> |
+  <a href="mailto:tinomhedziso21@gmail.com">Email</a> |
+  <a href="https://github.com/Passion-Over-Pain">GitHub</a> |
+  <a href="https://www.linkedin.com/in/tinotenda-mhedziso/">LinkedIn</a> |
+  <a href="https://tinotenda-mhedziso.pages.dev/">Website</a>
+</p>
