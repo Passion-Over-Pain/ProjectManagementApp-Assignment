@@ -79,6 +79,9 @@ https://github.com/user-attachments/assets/9e099763-a700-4bcf-b172-2ad80f0de4c3
 ### Personal Learning Outcome
 This project allowed me to integrate multiple technologies into a cohesive system while ensuring security and usability, showcasing the ability to manage real-world project requirements effectively.
 
+> [!Tip]
+> It doesn't get easier; you just become stronger.
+
 ---
 <p align="center" style="font-family: 'Times New Roman', serif;">
   <a href="https://dev.to/passionoverpain">Dev.to</a> |
