@@ -3,16 +3,26 @@
 ![CSSMagic](https://github.com/user-attachments/assets/7e542d6c-37c8-410e-b0dd-b483c8be20e7)
 
 
-As part of this project, I developed an IT Project Management web application designed to streamline the process of assigning and tracking tasks for a project team. Here’s a detailed breakdown of the project structure based on the requirements:
+As part of this project, we developed an IT Project Management web application designed to streamline the process of assigning and tracking tasks for a project team. Here’s a detailed breakdown of the project structure based on the requirements:
 
 ---
 
->[!NOTE]
-> Listen to the AI generated podcast based on the project documentation [EXPERIMENTAL]---
+### Group Members
 
-https://github.com/user-attachments/assets/9e099763-a700-4bcf-b172-2ad80f0de4c3
+This project was completed by the following group members:
 
----
+- **Line Redpath**  
+  <img src="https://github.com/LRedpathZA.png" width="100" /><br>
+   GitHub Profile: [Line's GitHub](https://github.com/LRedpathZA)  
+
+- **Juanette Viljoen**  
+  <img src="https://github.com/JuanetteRViljoen.png" width="100" /><br>
+   GitHub Profile: [Juanette's GitHub](https://github.com/JuanetteRViljoen)  
+
+- **Tinotenda Mhedziso**  
+  <img src="https://github.com/Passion-Over-Pain.png" width="100" /><br>
+  GitHub Profile: [Tino's GitHub](https://github.com/Passion-Over-Pain)
+
 
 ### Backend Development
 - **Framework Used**: ASP.NET Core Web APIs with Entity Framework.  
@@ -77,7 +87,7 @@ https://github.com/user-attachments/assets/9e099763-a700-4bcf-b172-2ad80f0de4c3
 - Some features, such as Role-Based Authentication and the integration of React with ASP.NET Core, required additional research and learning. This fulfilled the research component of the course.
 
 ### Personal Learning Outcome
-This project allowed me to integrate multiple technologies into a cohesive system while ensuring security and usability, showcasing the ability to manage real-world project requirements effectively.
+This project allowed us to integrate multiple technologies into a cohesive system while ensuring security and usability, showcasing the ability to manage real-world project requirements effectively.
 
 > [!Tip]
 > It doesn't get easier; you just become stronger.
